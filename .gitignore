@@ -35,3 +35,5 @@ build/
 .rvmrc
 .sass-cache
 .idea
+node_modules
+bower_components
